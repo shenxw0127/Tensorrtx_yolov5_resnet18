@@ -1,0 +1,6 @@
+%YAML:1.0
+
+resnet18_wts: "../../engine/resnet18.wts"
+resnet18_engine: "../../engine/resnet18.engine"
+yolov5_wts: "../../engine/yolov5s.wts"
+yolov5_engine: "../../engine/yolov5s.engine"
